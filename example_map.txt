@@ -1,0 +1,7 @@
+# old URL -> expected new URL (lines without -> are just traced)
+http://wikipedia.org -> https://www.wikipedia.org/
+http://github.com -> https://github.com/
+http://example.com/old-page -> https://example.com/new-page
+https://httpbin.org/redirect/2
+https://httpbin.org/redirect-to?url=http://example.com/
+this-domain-does-not-exist-zz9.com
